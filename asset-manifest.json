@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/motivational-words/static/css/main.fbcccb44.css",
+    "main.js": "/motivational-words/static/js/main.3fa0acea.js",
+    "static/js/453.ae63f51d.chunk.js": "/motivational-words/static/js/453.ae63f51d.chunk.js",
+    "static/media/Josh.jpg": "/motivational-words/static/media/Josh.1bd2b7117d1a133a75a9.jpg",
+    "index.html": "/motivational-words/index.html",
+    "main.fbcccb44.css.map": "/motivational-words/static/css/main.fbcccb44.css.map",
+    "main.3fa0acea.js.map": "/motivational-words/static/js/main.3fa0acea.js.map",
+    "453.ae63f51d.chunk.js.map": "/motivational-words/static/js/453.ae63f51d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fbcccb44.css",
+    "static/js/main.3fa0acea.js"
+  ]
+}
